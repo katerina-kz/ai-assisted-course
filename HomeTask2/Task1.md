@@ -1,63 +1,67 @@
-Prompt
+### Prompt
 
 We are currently working on a project to develop a mobile application for a food delivery service. 
 The application is being built using [React/React Native/Angular/Vue]. 
 As part of this project, we need to select a library that will provide essential UI components and features for building 
 a user-friendly and efficient food delivery app.
 
-Project Overview:
+## Project Overview:
 
 The mobile application aims to enable users to browse restaurant menus, place orders, and track the delivery status. It should provide seamless user experience, including features like restaurant listings, food item details, shopping cart management, and real-time order tracking.
 
-Project Requirements:
+## Project Requirements:
 
-Develop the mobile application using the framework.
-Provide an intuitive and attractive user interface for restaurant browsing and order placement.
-Support features such as restaurant listings, food item details, shopping cart management, and real-time order tracking.
-Optimize the application for performance, responsiveness, and fast loading times.
-Ensure that the selected library is well-documented, actively maintained, and offers good community support.
-Constraints:
+- Develop the mobile application using the framework.
+- Provide an intuitive and attractive user interface for restaurant browsing and order placement.
+- Support features such as restaurant listings, food item details, shopping cart management, and real-time order tracking.
+- Optimize the application for performance, responsiveness, and fast loading times.
+- Ensure that the selected library is well-documented, actively maintained, and offers good community support.
+- Constraints:
+  - The selected library should be compatible with the framework.
+  - Performance optimization is a key consideration, as the app should provide a smooth user experience even on slower network connections.
+  - The library should integrate seamlessly with real-time order tracking APIs.
 
-The selected library should be compatible with the framework.
-Performance optimization is a key consideration, as the app should provide a smooth user experience even on slower network connections.
-The library should integrate seamlessly with real-time order tracking APIs.
-Use Case:
+## Use Case:
 
 Imagine you are a developer on this project. You need to choose a library that provides UI components for building the app's user interface. The library should offer components for displaying restaurant listings, food item details, shopping cart interactions, and navigation between different screens. Additionally, the library should support animations for smoother transitions.
 
-Desired Features:
+## Desired Features:
 
-Restaurant listing components with images and brief descriptions.
-Detailed food item view with images, descriptions, and pricing.
-Shopping cart component for managing selected items.
-Navigation components for seamless transition between screens.
-Support for animations to enhance user experience.
-Performance Considerations:
+- Restaurant listing components with images and brief descriptions.
+- Detailed food item view with images, descriptions, and pricing.
+- Shopping cart component for managing selected items.
+- Navigation components for seamless transition between screens.
+- Support for animations to enhance user experience.
 
-Fast rendering and smooth animations.
-Efficient memory usage and minimal impact on app performance.
-Support for lazy loading of images and components.
-Community Support:
+## Performance Considerations:
 
-Active community with regular updates and maintenance.
-Clear and comprehensive documentation.
-Support for addressing issues and answering questions.
-Third-Party Integrations:
+- Fast rendering and smooth animations.
+- Efficient memory usage and minimal impact on app performance.
+- Support for lazy loading of images and components.
 
-Integration with real-time order tracking APIs.
-Compatibility with popular payment gateways.
-Deployment Environment:
+## Community Support:
 
-Deployment on both iOS and Android platforms.
-Compatibility with React Native's build and deployment process.
-Evaluation Criteria:
+- Active community with regular updates and maintenance.
+- Clear and comprehensive documentation.
+- Support for addressing issues and answering questions.
 
-Community activity and maintenance frequency.
-Documentation quality and clarity.
-Performance benchmarks and optimization strategies.
-Compatibility with real-time order tracking APIs.
-Smooth integration with React Native's ecosystem.
+## Third-Party Integrations:
 
+- Integration with real-time order tracking APIs.
+- Compatibility with popular payment gateways.
+
+## Deployment Environment:
+
+- Deployment on both iOS and Android platforms.
+- Compatibility with React Native's build and deployment process.
+
+## Evaluation Criteria:
+
+- Community activity and maintenance frequency.
+- Documentation quality and clarity.
+- Performance benchmarks and optimization strategies.
+- Compatibility with real-time order tracking APIs.
+- Smooth integration with React Native's ecosystem.
 
 In .md format, please provide the following details: recommend suitable libraries and comparative list of 
 characteristics of the proposed libraries and indicate which one would be the best with reasoning.

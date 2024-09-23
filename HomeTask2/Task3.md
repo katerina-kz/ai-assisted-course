@@ -1,4 +1,4 @@
-Prompt: 
+### Prompt: 
 
 **Project:**  
 We are working on a data analytics platform called "DataInsight" that helps businesses visualize and analyze their data. The platform’s frontend is built using Angular, while the backend leverages Node.js and follows a microservices architecture. Our team has decided to enhance the analytics dashboard by integrating the "ChartMaster" charting library. This library provides a rich set of interactive charting components, which will significantly improve the variety and quality of visualizations available to users.
@@ -33,7 +33,7 @@ Can you help us with it?
 
 --- 
 
-## ChatGPT Response:
+### ChatGPT Response:
 
 Here are some design patterns and best practices that can help you integrate the "ChartMaster" library into your "DataInsight" platform while ensuring performance, modularity, and security:
 

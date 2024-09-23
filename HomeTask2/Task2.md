@@ -1,14 +1,14 @@
-# Prompt
+### Prompt
 
 I am seeking guidance in designing API endpoints that will enable administrators to retrieve user information with various filtering options we are developing using TypeScript and NodeJS framework. These endpoints will allow the retrieval of user information based on different filters.
 
 ---
 
-### API Purpose and Context
+## API Purpose and Context
 
 The online platform requires an API endpoint that will enable administrators to retrieve user information with various filtering options. The platform currently stores user data in a relational database. The API should be designed to provide flexibility in filtering users based on specific criteria. The endpoint should have the potential for further expansion.
 
-### Functional Requirements:
+## Functional Requirements:
 
 - HTTP Method: GET
 - Query Parameters:
@@ -21,7 +21,7 @@ The online platform requires an API endpoint that will enable administrators to 
   - If no users match the filters, return a 404-status code with an appropriate error message.
   - If there is an issue with the query parameters (e.g., invalid role, invalid date format), return a 400-status code with an error message.
 
-### Acceptance Criteria:
+## Acceptance Criteria:
 
  - The API endpoint is accessible via the HTTP GET method.
  - The endpoint successfully retrieves users from the database based on the specified filters.
@@ -35,7 +35,7 @@ The online platform requires an API endpoint that will enable administrators to 
 In light of these points, I need your assistance to develop the most suitable solution in .md format.
 
 ---
-## ChatGPT response:
+### ChatGPT response:
 
 # Designing API Endpoints for Retrieving User Information with Filters
 
