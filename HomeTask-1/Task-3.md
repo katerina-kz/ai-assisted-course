@@ -1,16 +1,18 @@
-Prompt:
+### Prompt:
 
-Can you help estimate the development effort for a new feature based on this information:
+## Can you help estimate the development effort for a new feature based on this information:
 
-Feature description: Incorporate an "Instant Booking" feature in our property booking application, which would allow renters to book properties instantly.
-Application type: Booking application.
-Feature purpose: Property owners have the autonomy to activate or deactivate this feature for their listings.
-Technologies involved: JavaScript frameworks.
-Constraints: development timeline and budget. We also anticipate a steady increase in our user base over the next six months
+ - Feature description: Incorporate an "Instant Booking" feature in our property booking application, which would allow renters to book properties instantly.
+- Application type: Booking application.
+- Feature purpose: Property owners have the autonomy to activate or deactivate this feature for their listings.
+- Technologies involved: JavaScript frameworks.
+- Constraints: development timeline and budget. We also anticipate a steady increase in our user base over the next six months
 
 Given these details, can we get an estimation of the effort required to develop and implement this advanced search feature?
 
-ChatGPT's feedback:
+---
+
+### ChatGPT's feedback:
 
 To estimate the development effort for the "Instant Booking" feature, we need to break down the tasks involved. I'll provide an estimate in **story points** or **hours/days**, based on the typical complexity of the tasks, using the technologies involved (React, Node.js, MongoDB, Redux).
 

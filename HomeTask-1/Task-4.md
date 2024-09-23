@@ -1,35 +1,26 @@
-Prompt:
+### Prompt:
 
 In order to validate the requirements for our upcoming project, 'Instant Booking', effectively, we request your detailed input on the following aspects:
 
-Project context: We're integrating an "Instant Booking" feature in our property booking application, enabling renters to instantly book available properties.
-Specific requirements: We are looking to validate the following:
-Renters should be able to see and select the 'Instant Booking' option only for properties that have activated this feature.
+- Project context: We're integrating an "Instant Booking" feature in our property booking application, enabling renters to instantly book available properties.
+- Specific requirements: 
+  - We are looking to validate the following:
+    - Renters should be able to see and select the 'Instant Booking' option only for properties that have activated this feature. 
+    - Property owners should have an interface to activate or deactivate the 'Instant Booking' option for their listed properties. 
+    - Once activated, the 'Instant Booking' option cannot be deactivated by property owners for a minimum of 30 days. 
+    - Ohe system should send instant notifications to property owners once a renter makes an instant booking. 
+    - Renters should receive a confirmation notification immediately after successfully making an instant booking. 
+    - The system must process payments immediately for 'Instant Booking' reservations. 
+    - Renters can cancel the instant booking within 12 hours without any penalties. 
+    - Property owners can opt out of 'Instant Booking' at any time. 
+    - In case of any booking conflicts, the system should revert to the renter with alternative property options.
+- Stakeholders involved include property owners, renters, and our development team. The constraints involve a fixed development schedule and budget, while we're also assuming an uptick in our user base in the coming months.
+- Constraints and assumptions: We're operating within a strict development timeline, a set budget, and assuming a steady user base growth over the next six months.
+- Feedback mechanism: Detailed document, addressing each specific requirement. Also include any general observations about the user experience and technical feasibility.
 
-Property owners should have an interface to activate or deactivate the 'Instant Booking' option for their listed properties.
+---
 
-Once activated, the 'Instant Booking' option cannot be deactivated by property owners for a minimum of 30 days.
-
-The system should send instant notifications to property owners once a renter makes an instant booking.
-
-Renters should receive a confirmation notification immediately after successfully making an instant booking.
-
-The system must process payments immediately for 'Instant Booking' reservations.
-
-Renters can cancel the instant booking within 12 hours without any penalties.
-
-Property owners can opt out of 'Instant Booking' at any time.
-
-In case of any booking conflicts, the system should revert to the renter with alternative property options.
-
-Stakeholders involved include property owners, renters, and our development team. The constraints involve a fixed development schedule and budget, while we're also assuming an uptick in our user base in the coming months.
-
-Constraints and assumptions: We're operating within a strict development timeline, a set budget, and assuming a steady user base growth over the next six months.
-Stakeholders: Key stakeholders encompass property owners, renters, and the development team.
-Feedback mechanism: Detailed document, addressing each specific requirement. Also include any general observations about the user experience and technical feasibility.
-
-
-ChatGPT's feedback:
+### ChatGPT's feedback:
 
 We need your insights on whether the outlined requirements align well with the project goals and stakeholder expectations, along with any suggestions for enhancements or critical adjustments.
 

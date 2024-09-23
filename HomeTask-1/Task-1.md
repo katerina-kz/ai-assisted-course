@@ -1,20 +1,22 @@
-Prompt:
+### Prompt:
 
-Can you help generate functional and non-functional requirements based on the following information:
+## Can you help generate functional and non-functional requirements based on the following information:
 
-Purpose of the system: The system is designed to be an existing web application for property bookings
-Key features: Introduce an "Instant Booking" feature where renters can instantly book available properties without waiting for owner approval.
-User roles:
-Property owners:  should be able to toggle this feature on or off for their listings.
-Renters: should be able to filter search results to only show instantly bookable properties.
-Performance expectations: The system should support up to 100 concurrent users without performance degradation. Task updates should reflect in real-time.
-Security needs: Security, especially in terms of payment processing, remains a priority.
-Usability: The interface addition should seamlessly integrate with our current user interface, ensuring an intuitive experience
-Technology preferences: The application should be developed using JavaScript, with React for front-end development and Node.js for the back end.
-Edge cases:
+ - Purpose of the system: The system is designed to be an existing web application for property bookings
+ - Key features: Introduce an "Instant Booking" feature where renters can instantly book available properties without waiting for owner approval.
+ - User roles:
+    - Property owners:  should be able to toggle this feature on or off for their listings.
+    - Renters: should be able to filter search results to only show instantly bookable properties.
+- Performance expectations: The system should support up to 100 concurrent users without performance degradation. Task updates should reflect in real-time.
+- Security needs: Security, especially in terms of payment processing, remains a priority.
+- Usability: The interface addition should seamlessly integrate with our current user interface, ensuring an intuitive experience
+- Technology preferences: The application should be developed using JavaScript, with React for front-end development and Node.js for the back end.
+- Edge cases:
 Potential edge cases to consider are simultaneous instant bookings of the same property and handling instant bookings when a property's availability suddenly changes.
 
-ChatGPT's feedback:
+--- 
+
+### ChatGPT's feedback:
 
 Here are the functional and non-functional requirements based on the information you provided:
 Functional Requirements:

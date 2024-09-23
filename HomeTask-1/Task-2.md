@@ -1,16 +1,17 @@
-Prompt:
+### Prompt:
+## Based on this project outline, can you identify potential risks and challenges?
 
-Based on this project outline, can you identify potential risks and challenges?
-
-Type of application: booking application.
-Technologies used: React, Node.js, MongoDB, Redux, Sass.
-Project context and main functionalities: Incorporate an "Instant Booking" feature in our existing property booking application. With this addition, renters can instantly book available properties without awaiting owner approval
-Key stakeholders and their goals: Property owners should be empowered to toggle this feature on/off for their properties.
-Constraints: limited time frame for the feature's development and a restricted budget.
+- Type of application: booking application.
+- Technologies used: React, Node.js, MongoDB, Redux, Sass.
+- Project context and main functionalities: Incorporate an "Instant Booking" feature in our existing property booking application. With this addition, renters can instantly book available properties without awaiting owner approval
+- Key stakeholders and their goals: Property owners should be empowered to toggle this feature on/off for their properties.
+- Constraints: limited time frame for the feature's development and a restricted budget.
 
 Considering these factors, what are the main risks for frontend development and user experience in this project?
 
-ChatGPT's feedback:
+ ---
+
+### ChatGPT's feedback:
 
 Here are the potential risks and challenges for front-end development and user experience in the project:
 
